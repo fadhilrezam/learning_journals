@@ -6,3 +6,4 @@ for angka in numbers:
       print (f"{angka} adalah angka genap")
       if angka == 918:
         break
+print("Looping Done")
